@@ -37,7 +37,7 @@ Relay doc [Step-by-step](https://relay.dev/docs/getting-started/step-by-step-gui
 
 ## Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## Starting ##
 
