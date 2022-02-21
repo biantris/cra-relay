@@ -47,7 +47,17 @@ $ git clone https://github.com/biantris/cra-relay
 
 # Access
 $ cd cra-relay
+```
+## Create .env file
+- Create your file .env with your `REACT_APP_GITHUB_AUTH_TOKEN`
+- Example:
 
+```bash
+# your-app-name/.env.local
+REACT_APP_GITHUB_AUTH_TOKEN=<TOKEN>
+```
+## And
+```bash
 # Install dependencies
 $ yarn
 
@@ -56,11 +66,6 @@ $ yarn start
 
 # The server will initialize in the <http://localhost:3000>
 ```
-
-<!-- ## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
-
 
 Made by <a href="https://github.com/biantris" target="_blank">biantris</a>
 
