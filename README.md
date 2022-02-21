@@ -1,9 +1,7 @@
 <div align="center" id="top"> 
-  <!-- <img src="./.github/app.gif" alt="Cra Relay" /> -->
 
   &#xa0;
 
-  <!-- <a href="https://crarelay.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Cra Relay</h1>
@@ -24,21 +22,10 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/cra-relay?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Cra Relay 🚀 Under construction...  🚧
-</h4> 
-
-<hr> -->
-
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <!-- <a href="#memo-license">License</a> &#xa0; | &#xa0; -->
   <a href="https://github.com/biantris" target="_blank">Author</a>
 </p>
 
@@ -90,7 +77,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file. -->
 
 
-Made with :heart: by <a href="https://github.com/biantris" target="_blank">biantris</a>
+Made by <a href="https://github.com/biantris" target="_blank">biantris</a>
 
 &#xa0;
 
