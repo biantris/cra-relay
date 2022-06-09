@@ -47,6 +47,9 @@ $ git clone https://github.com/biantris/cra-relay
 
 # Access
 $ cd cra-relay
+
+# copy .env file
+cp .env.example .env
 ```
 ## Create .env file
 - Create your file .env with your `REACT_APP_GITHUB_AUTH_TOKEN`
